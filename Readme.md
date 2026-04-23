@@ -86,7 +86,7 @@ ping 192.168.1.1
 telnet 192.168.1.1
 ```
 
-Enter Privileged Mode
+- Enter Privileged Mode
 ```bash
 enable
 ```
