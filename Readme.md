@@ -90,6 +90,10 @@ Enter Privileged Mode
 ```bash
 enable
 ```
+## 📸 Network Topology
+![Topology](images/topology.png)
+
+---
 ## ✅ Testing & Verification
 - Verified connectivity using ping  
 - Successfully accessed router from PC using Telnet  
@@ -114,7 +118,8 @@ In real-world networks, SSH (Secure Shell) is preferred for secure remote access
 ---
 
 ## 📂 Project File
-- telnet-project.pkt  
+- telnet-project.pkt
+- images/topology.png
 
 ---
 
