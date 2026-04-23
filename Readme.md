@@ -119,7 +119,7 @@ In real-world networks, SSH (Secure Shell) is preferred for secure remote access
 
 ## 📂 Project File
 - telnet-project.pkt
-- images/topology.png
+- Image/Topology.png
 
 ---
 
