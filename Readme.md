@@ -91,7 +91,7 @@ Enter Privileged Mode
 enable
 ```
 ## 📸 Network Topology
-![Topology](images/topology.png)
+![Topology](Image/Topology.png)
 
 ---
 ## ✅ Testing & Verification
